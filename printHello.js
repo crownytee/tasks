@@ -1,4 +1,4 @@
-function printHello(){
-    console.log("Hello");
+function printHello() {
+  console.log("Hello");
 }
 printHello();
